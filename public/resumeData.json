@@ -15,7 +15,7 @@
       "zip": "2855-599 Corroios"
     },
     "website": "",
-    "resumedownload":"",
+    "resumedownload":"documents/AnaGomes_Resume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -30,7 +30,27 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are some of the main skills I've acquired over the years I worked as a developer",
+    "work":[
+      {
+        "company":"Axians Portugal",
+        "title":"Microsoft Consultant",
+        "years":"March 2020 - Present",
+        "description":"Description"
+      },
+      {
+        "company":"Growin",
+        "title":".Net Consultant",
+        "years":"January 2019 - March 2020",
+        "description":"Description"
+      },
+      {
+        "company":"Sendys",
+        "title":"Project Consultant",
+        "years":"March 2016 - January 2019",
+        "description":"Description"
+      }
+    ],
     "education":[
       {
         "school":"University?",
@@ -43,14 +63,6 @@
         "degree":"What did you study 101",
         "graduated":"March 2003",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
-    ],
-    "work":[
-      {
-        "company":"Axians Portugal",
-        "title":"Microsoft Consultant",
-        "years":"March 2020 - Present",
-        "description":"Cenas"
       }
     ],
     "skills":[
@@ -97,6 +109,18 @@
       {
         "name":"ReactJs",
         "level":"30%"
+      }
+    ],
+    "certifications": [
+      {
+        "company": "Microsoft",
+        "title": "Microsoft Technology Associate: Software Development Fundamentals",
+        "date": "September 2015"
+      },
+      {
+        "company": "Outsystems",
+        "title": "Outsystems Associate Web Developer",
+        "date": "July 2020"
       }
     ]
   }
